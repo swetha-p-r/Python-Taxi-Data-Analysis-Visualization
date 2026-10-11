@@ -1,5 +1,5 @@
 # Python Taxi Data Analysis & Visualization
-A Python data analysis project using the Seaborn Taxis dataset to explore taxi trip data, handle missing values, and visualize patterns in fares, trip distances, payment methods, and pickup boroughs.
+An analysis of the Seaborn Taxis dataset using Python to explore taxi trip data, handle missing values, and visualize patterns in fares, trip distances, payment methods, and pickup boroughs.
 # Tools & Libraries
 - Python
 - Pandas
@@ -23,10 +23,3 @@ A Python data analysis project using the Seaborn Taxis dataset to explore taxi t
 - Violin plot
 # Objective
 To practise Python-based data cleaning, exploratory data analysis (EDA), and data visualization to identify patterns and understand taxi trip data.
-
-
-
-
-
-
-Show less
